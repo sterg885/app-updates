@@ -1,0 +1,6 @@
+{
+    "mandatory":  true,
+    "url":  "https://raw.githubusercontent.com/sterg885/app-updates/main/WorkSummary-1.9.0.apk",
+    "version":  "1.9.0",
+    "notes":  "Fixed the bond-duration data.\nAdded two shift patterns (9h 30m - 8h task, and 9h - 7h 30m task).\nAdded the notice period -- while serving notice, the bond card changes into a green notice-duration countdown.\nAdded profile details -- tap your profile picture to see them.\nAdded a Share QR button so you can share the app directly.\nUpdated the app\u0027s security features."
+}
